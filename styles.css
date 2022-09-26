@@ -1,0 +1,30 @@
+body {
+    font-family: arial;
+    background-color: blueviolet;
+    color: greenyellow;
+    text-align: left;
+    
+}
+
+button {
+    font-size: large;
+}
+
+h1, h3 {
+    background-color: black;
+    text-align: center;
+}
+
+.amd {
+    background-color: crimson;
+    height: auto;
+    width: auto;
+    border: 3px solid black;
+}
+
+.nvidia{
+    background-color: green;
+    height: auto;
+    width: auto;
+    border: 3px solid black;
+}

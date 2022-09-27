@@ -2,12 +2,18 @@ body {
     font-family: arial;
     background-color: blueviolet;
     color: greenyellow;
-    text-align: left;
+    text-align: center;
+    list-style-position: inside;
     
 }
 
 button {
     font-size: large;
+}
+
+img {
+    height: 30px;
+    width: 700px;
 }
 
 h1, h3 {

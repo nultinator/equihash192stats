@@ -21,8 +21,11 @@ a, button, a.button, button.button {
 }
 
 img {
-    height: 30px;
-    width: 700px;
+    min-height: 30px;
+    max-height: 500px;
+    min-width: 700px;
+    max-width: 2100px;
+
 }
 
 h1, h3 {
